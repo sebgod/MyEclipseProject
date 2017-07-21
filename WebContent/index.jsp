@@ -6,7 +6,7 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>This is my demo page</title>
+        <title>This is my demo page, initialised from Git!</title>
     </head>
 	<body>
 	    <strong><% out.println("Hello Simon from " + request.getLocale().getDisplayCountry()); %></strong><br>
